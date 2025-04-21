@@ -1,2 +1,2 @@
-# DevOps-Learner
+# DevOps
 Learning DevOps with Abhishek
