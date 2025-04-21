@@ -27,3 +27,6 @@ Why Docker containers are Light-weight in nature?
 =============================================================================================================================================================================================
 --> Because, they do not really have a full operating system, and they use base resources from the operating system. But they do have a very minimalistic system dependencies and packages.
 --> Container base images are typically smaller compared to VM image because they are designed to be minimalist and only contains necessary components for running a specific application or service. VMs on the other hand, emulate an entire operating system, includes all it's libraries, utilities and system files, resulting in a much larger size.
+
+**Containers vs Virtual Machine**
+
